@@ -22,4 +22,4 @@ User can then initiate Compute Engine virtual workstation by typing in Google Cl
 
 User is then required to setup NVIDIA driver, Teradici client, and firewall setup for the virtual workstation. After setup user can then remotely access the virtual workstation from their device.
 ## Sample Code
-Since my billing account has yet to be verified by Google, I cannot access the API. But I have made a code for computing partial differential numerically using LSMPS method which is often used to solve incompressible Navier Stokes equation. The code is still in early development but it can serve as a reference of my familiarity with CPP STL and ADT.
+Since my billing account has yet to be verified by Google, I cannot access the API. But I have made a code for computing partial differential numerically using LSMPS method which is often used to solve incompressible Navier Stokes equation. The code is still in early development but it can serve as a reference of my familiarity with CPP STL and ADT. The code is on this repo titled LSMPS_V01.cpp.
